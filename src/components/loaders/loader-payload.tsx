@@ -28,6 +28,7 @@ const LoaderPayload = () => {
         // @ts-ignore
         context.loadReport(jsonData, newfile.name);
       } catch (err) {
+        console.error('loadReport Error: ', err);
         resetState();
         setHasError(true);
         setTimeout(function () {
