@@ -20,7 +20,7 @@ $info-light:                      #25b1c3 !default;
 $info-dark:                       #029eb1 !default;
 
 // navbar color links
-$navbar-color-links:              unquote('#a9afbbd1') !default;
+$navbar-color-links:              unquote('#efefef') !default;
 
 // sidebar links color
 $sidebar-link-color:              $navbar-color-links !default;
@@ -74,10 +74,10 @@ $right-position:                  $border-badge-notification !default;
 
 // card color
 $card-color:                      #202940 !default;
-$card-category-color:             #8b92a9 !default;
+$card-category-color:             #efefef !default;
 $card-body-color:                 $card-category-color !default;
 $card-list-item-color:            $card-category-color !default;
-$card-title-color:                #606477 !default;
+$card-title-color:                #efefef !default;
 $card-description-color:          $card-title-color !default;
 $stats-primary-link-color:        $sidebar-primary-button-active !default;
 $stats-info-link-color:           $sidebar-info-button-active !default;
@@ -116,7 +116,7 @@ $tooltips-background-color:       $tooltips-arrow-color !default;
 $tooltips-text-color:             $card-category-color !default;
 
 // buttons color
-$dark-btn-default-bg:               #9095a2 !default;
+$dark-btn-default-bg:               #cccccc !default;
 $dark-btn-default-border-color:     $dark-btn-default-bg !default;
 $dark-btn-white-color:              $dark-btn-default-bg !default;
 $dark-btn-primary-bg:               $purple-light !default;
